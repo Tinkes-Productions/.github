@@ -27,7 +27,7 @@ Some projects here are made together with [Sinerla Development](https://github.c
 ---
 
 ### 📬 Connect
-- **LinkedIn (Tinkes):**.[https://www.linkedin.com/in/rasmus-salminen-93b78b340/](https://www.linkedin.com/in/rasmus-salminen-93b78b340/)
+- **LinkedIn (Tinkes):** [linkedin.com/in/rasmus-salminen-93b78b340/](https://www.linkedin.com/in/rasmus-salminen-93b78b340/)
 - **GitHub (Tinkes):** [github.com/t-i-n-k-e-s](https://github.com/t-i-n-k-e-s)
 - **Twitch:** [Tinkes_](https://twitch.tv/Tinkes_)
 - **YouTube (Tinkes):** [@_TINKES_](https://youtube.com/@_TINKES_)
