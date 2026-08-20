@@ -27,10 +27,10 @@ Some projects here are made together with [Sinerla Development](https://github.c
 ---
 
 ### 📬 Connect
-
+- **LinkedIn (Tinkes):**.[https://www.linkedin.com/in/rasmus-salminen-93b78b340/](https://www.linkedin.com/in/rasmus-salminen-93b78b340/)
 - **GitHub (Tinkes):** [github.com/t-i-n-k-e-s](https://github.com/t-i-n-k-e-s)
-- **GitHub (Sinerla):** [github.com/sinerla](https://github.com/sinerla)
 - **Twitch:** [Tinkes_](https://twitch.tv/Tinkes_)
 - **YouTube (Tinkes):** [@_TINKES_](https://youtube.com/@_TINKES_)
-- **YouTube (Sinerla):** [@sinerla](https://www.youtube.com/@sinerla)
 - **Email:** rasmus.e.o.salminen@gmail.com
+- **GitHub (Sinerla):** [github.com/sinerla](https://github.com/sinerla)
+- **YouTube (Sinerla):** [@sinerla](https://www.youtube.com/@sinerla)
