@@ -1,6 +1,6 @@
 # Tinkes Productions
 
-Welcome to the GitHub organization of **Tinkes Productions**, run by Rasmus (Tinkes) from Finland. Games first, everything else second.
+Welcome to the GitHub organization of **Tinkes Productions**, run by Rasmus (Tinkes) from Finland.
 
 ---
 
