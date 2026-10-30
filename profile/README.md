@@ -14,7 +14,7 @@ Welcome to the GitHub organization of **Tinkes Productions**, run by Rasmus (Tin
 
 ### 🚀 Active Projects
 
-- **Ropobot** - a mod for R.E.P.O., built together with Sinerla Development
+- **ThiefCoop** - a mod for Thief Simulator, built together with Sinerla Development
 
 More repos as they get finished. Learning projects first, products second.
 
