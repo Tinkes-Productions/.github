@@ -6,7 +6,7 @@ Welcome to the GitHub organization of **Tinkes Productions**, run by Rasmus (Tin
 
 ### 🛠️ Tech Stack & Skills
 
-- **Game Development:** Unreal Engine, Pygame, game mods
+- **Game Development:** Unreal Engine, Unity, Godot, Pygame, game mods
 - **Software Development:** JavaScript, Node.js / Express, HTML & CSS, Python, C#
 - **Computer Vision:** OpenCV, camera tracking and marker detection
 
