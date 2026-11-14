@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Icon.png">
-    <img src="Icon-black.png" width="150" alt="Tinkes logo">
+    <source media="(prefers-color-scheme: dark)" srcset="banner.png">
+    <img src="banner-black.png" width="500" alt="Tinkes Productions">
   </picture>
 </p>
 
