@@ -7,15 +7,20 @@
 
 # Tinkes Productions
 
-Games and mods by Rasmus (Tinkes) from Finland. Most projects are still in development and stay private until they're playable.
+Games and mods by Rasmus (Tinkes) from Finland. I'm studying software development at Valkeakosken ammattiopisto alongside upper secondary school, and this is where my own projects go. Most of them are still in development and stay private until they're playable.
 
 ## Projects
 
-- **Thief Coop** is a co-op mod for Thief Simulator, made with [Sinerla Development](https://github.com/Sinerla-Development)
+**Thief Coop** · *in development*
+A co-op mod for Thief Simulator 1, made with [Sinerla Development](https://github.com/Sinerla-Development). The name is a chicken coop joke. It'll be released here with a trailer once it's been properly playtested.
 
 ## Tools
 
-Unity, Godot, Unreal and Pygame for games. JavaScript, Node, Python and C# for other projects. Some OpenCV work with camera tracking and marker detection.
+- **Games** Unity, Godot, Unreal Engine, Pygame
+- **Code** C#, Python, JavaScript, Node.js / Express, HTML & CSS
+- **Other** OpenCV, Raspberry Pi, ffmpeg, Git
+
+I draw my own 2D art. 3D modeling isn't my thing, which is why most of my games end up 2D.
 
 ## Sinerla Development
 
