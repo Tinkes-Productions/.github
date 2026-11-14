@@ -24,7 +24,7 @@ I draw my own 2D art. 3D modeling isn't my thing, which is why most of my games 
 
 ## Sinerla Development
 
-Some projects are made together with Sinerla Development, who work on automation, IoT and audio engineering. [GitHub](https://github.com/sinerla) · [YouTube](https://www.youtube.com/@sinerla)
+Some projects are made together with Sinerla, who work on automation, IoT and audio engineering. [GitHub](https://github.com/sinerla) · [YouTube](https://www.youtube.com/@sinerla)
 
 ## Contact
 
